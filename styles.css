@@ -162,3 +162,11 @@ height: 80vh;
       }
 
   }
+  /*hovers*/
+  #nav-div>a:hover{
+    color:#dc876b
+  }
+  .suggested-products:hover{
+    box-shadow: 2px 2px 4px .3px #dc876b;
+  }
+  
